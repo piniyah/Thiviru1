@@ -1,12 +1,12 @@
 {
-"name": "Thiviru1",
+"name": "Thiviruh",
 "version": "2.1.2",
-"description": "Thiviru1 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Thiviruh has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name Thiviru1",
-"stop": "pm2 stop newAcc",
-"restart": "pm2 restart Thiviru1"
+"start": "pm2 start start.js --deep-monitoring --attach --name Thiviruh",
+"stop": "pm2 stop Thiviruh",
+"restart": "pm2 restart Thiviruh"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
